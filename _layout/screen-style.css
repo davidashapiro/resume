@@ -95,13 +95,13 @@ body{
 				.item h4{ background-color:#eee; color:#333; font-size:10px; text-transform:uppercase; }
 					.item h4:hover{ background-color:#000; color:#fff; }
 				
-				.item h2{ color:#06A; font-family:Georgia, serif; font-size:22px; font-weight:400; letter-spacing:-1px; }
+				.item h2{ color:#06A; font-family:Georgia, serif; font-size:16px; font-weight:400; letter-spacing:-1px; }
 					.item h2 a{ color:#06A; text-decoration:none; }
 				
 				.item h3{ color:#262625; font-family:Georgia, serif; font-size:15px; font-style:italic; font-weight:400; }
 				
 				.item p{ text-align:justify; }
-				.item ul{ list-style:inside; text-align:justify; }
+				.item ul{ list-style:inside; text-align:justify; margin-left: 40px;}
 					.item ul li{ list-style-type:disc; }
 					
 			.last-item{ border-bottom:none; }
